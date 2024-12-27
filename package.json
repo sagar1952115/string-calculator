@@ -1,0 +1,17 @@
+{
+  "name": "incubyte-assignment",
+  "version": "1.0.0",
+  "description": "This is a string calculator following TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sagar Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
